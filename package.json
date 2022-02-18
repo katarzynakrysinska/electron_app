@@ -1,0 +1,14 @@
+{
+  "name": "electron_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/katarzynakrysinska/electron_app.git",
+  "author": "Katarzyna Krysińska <katarzyna.krysinska@onet.pl>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "dependencies": {
+    "electron": "5.0.6"
+  }
+}
